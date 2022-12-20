@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I'm experienced in JavaScript, Python and a bit of Java (Spigot API).<br>🔭 I’m currently working on a Torah Reading website (https://github.com/Henny4316/trup)<br>🌱 I’m currently learning Node.js backend frameworks.<br>💬 Ask me about anything, though you may not get the correct answer :)<br>⚡ Fun fact: JavaScript used to be called 'Mocha'.
+🧠 I'm experienced in JavaScript, Python and a bit of Java (Spigot API).<br>🌱 I’m currently learning Node.js backend frameworks.<br>💬 Ask me about anything, though you may not get the correct answer :)<br>⚡ Fun fact: JavaScript used to be called 'Mocha'.
 
 
 # 💻 Tech Stack:
